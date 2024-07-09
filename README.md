@@ -5,5 +5,5 @@
 1. cc <name_of_c_program> <br/>
 2. ./a.out <br/>
 # Hello C
-![image](https://github.com/FishyStix12/C-Essentials/assets/102126354/3a5c954e-b657-4e88-a2e0-b91f3c634876) <br />
+![image](https://github.com/FishyStix12/C-Essentials/assets/102126354/5aa9b359-01d9-455a-90dd-f29b8b44856a) <br />
 Coming Soon! <br />
