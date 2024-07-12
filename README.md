@@ -13,4 +13,4 @@
 1. helloC.c - Basic Hello World! Script. 
 2. helloCalt.c - Alternative Hello World! Script 
 helo new world
-fuck my life shithole
+all the boys and girls
