@@ -12,5 +12,5 @@
 **The Following List gives a short description of all the scripts in this group:** <br />
 1. helloC.c - Basic Hello World! Script. <br />
 2. helloCalt.c - Alternative Hello World! Script <br />
-helo new world
+helo new world <br />
 all the boys and girls
