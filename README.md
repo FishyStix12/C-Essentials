@@ -7,7 +7,7 @@
 
 **Important Note: Install_gcc.sh is a script to set up gcc on your Linux instance.** <br />
 
-# Hello C
+# Hello C <br />
 ![image](https://github.com/FishyStix12/C-Essentials/assets/102126354/5aa9b359-01d9-455a-90dd-f29b8b44856a) <br />
 **The Following List gives a short description of all the scripts in this group:** <br />
 1. helloC.c - Basic Hello World! Script. <br />
