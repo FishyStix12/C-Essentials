@@ -2,7 +2,7 @@
 // Author: Nicholas Fisher
 // Date: July 9th 2024
 // Description of the Program:
-//  Basic Hello World! Script
+//  Basic Hello World! Program
 //////////////////////////////////////////////////////////////////////////////////////////////////////////
 #include <stdio.h>   // Including standard input-output library header
 #include <stdlib.h>  // Including standard library header for EXIT_SUCCESS
